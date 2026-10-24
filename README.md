@@ -2,25 +2,29 @@
 
 ## 中文
 
+**不用会写代码，也不用下载整个仓库。** 打开下方图片挑一种喜欢的风格，再点开 [14 种提示词](PROMPTS.md) 复制文字即可。
+
 这里收录了 14 种英文提示词，可把**你自己的宠物猫实拍照**转成不同画材与版式的艺术明信片。每种风格都尽量保留原猫的脸、毛色、姿势和特征，并为标题、装饰与留白指定相应的设计。下方每种风格各有 1 组原图与生成结果；示例照片仅用于展示输入与效果。
 
 **使用方法**
 
-1. 上传一张自己猫咪的清晰照片。
-2. 打开 [PROMPTS.md](PROMPTS.md)。除第 10 种陶瓷彩绘外，复制“Common reference and output block”加上一种风格段落；第 10 种使用其独立段落。
-3. 将猫咪特征、`[TITLE]` 和 `[SUBTITLE]` 等占位符换成真实信息与想要的英文短句，再生成 3:4 竖版图。第 13 种另提供矩形雕版变体 13B。
-4. 核对猫咪特征与英文拼写；用于印刷或发布前，请修正模型生成的错字。
+1. 在下方对照图里挑喜欢的风格，上传**你自己的猫咪照片**到支持参考图的生图工具。
+2. 点开 [14 种提示词](PROMPTS.md)，找到同编号的风格。复制顶部的 **Common reference and output block**，再复制该风格的英文提示词，一起发给生图工具。**第 10 种只需复制自己的段落。**
+3. 把方括号里的内容换成你的猫咪特征，以及想写在明信片上的简短英文标题 `[TITLE]` 和副标题 `[SUBTITLE]`。建议生成 **3:4 竖图**。
+4. 生成后检查猫咪长相和文字拼写；文字有误可重试或在排版软件中修正。
 
 ## English
+
+**No coding or repository download is needed.** Browse the examples below, open the [14 prompts](PROMPTS.md), and copy the text for a style you like.
 
 This repository contains 14 English prompts that turn **a photo of your own pet cat** into art postcards with different materials, typography and layouts. The prompts aim to preserve the individual cat's face, markings and pose. Each style has one example pair below showing the input photograph and generated result. The example photographs are for comparison.
 
 **How to use**
 
-1. Upload one clear photograph of your cat.
-2. Open [PROMPTS.md](PROMPTS.md). For styles 01–09 and 11–14, combine the common reference block with one style block. Style 10 uses its standalone prompt.
-3. Replace the identity anchors and placeholders such as `[TITLE]` and `[SUBTITLE]` with observed details and your own short English text. Generate a 3:4 portrait image. Style 13 also has a rectangular print-block alternative, 13B.
-4. Check identity and spelling before sharing or printing; image generators can make lettering errors.
+1. Choose a style from the before/after examples and upload **your own cat photo** to an image generator that accepts reference images.
+2. Open the [14 prompts](PROMPTS.md). Copy the **Common reference and output block** at the top, then copy your chosen numbered style. **For style 10, copy only its own block.**
+3. Replace the square-bracketed text with your cat’s observed features and a short English `[TITLE]` and `[SUBTITLE]`. Request a **3:4 portrait** image.
+4. Check that the result still looks like your cat and that the words are spelled correctly. Retry or correct the lettering in a design app if needed.
 
 ## Examples / 示例
 
